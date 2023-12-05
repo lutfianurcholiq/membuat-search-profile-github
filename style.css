@@ -115,6 +115,14 @@ body {
     margin-top: 17px;
 }
 
+.container .user-profile div {
+    height: 75px;
+    width: 90px;
+    float: left;
+    text-align: center;
+    margin-left: 2px;
+}
+
 .container .user-profile div span {
     font-size: 13px;
     position: relative;
